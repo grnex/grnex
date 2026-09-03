@@ -120,8 +120,8 @@ interests:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-montani.dev%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grodrigues.devloper@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-phz9ra-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grnex)
+[![Email](https://img.shields.io/badge/Email-grodrigues.devloper%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grodrigues.devloper@gmail.com)
+[![GitHub](hhttps://img.shields.io/badge/GitHub-grnex-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grnex)
 
 </div>
 
