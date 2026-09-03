@@ -55,23 +55,23 @@ GitHub:   github.com/grnex
 
 ### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=red)
 
 
 ### Back-end & Languages
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=red)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=red)
 
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=red)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=red)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=red)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=red)
 
 </div>
 
@@ -120,8 +120,8 @@ interests:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-grodrigues.devloper%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grodrigues.devloper@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-grnex-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grnex)
+[![Email](https://img.shields.io/badge/Email-grodrigues.devloper%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:grodrigues.devloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-grnex-0D1117?style=for-the-badge&logo=github&logoColor=red)](https://github.com/grnex)
 
 </div>
 
