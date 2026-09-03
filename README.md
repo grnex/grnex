@@ -121,7 +121,7 @@ interests:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-grodrigues.devloper%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grodrigues.devloper@gmail.com)
-[![GitHub](hhttps://img.shields.io/badge/GitHub-grnex-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grnex)
+[![GitHub](https://img.shields.io/badge/GitHub-grnex-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grnex)
 
 </div>
 
