@@ -16,7 +16,7 @@
 
 <img src="./assets/aura.gif" width="390" alt="grnex profile animation"/>
 
-</td>s
+</td>
 
 <td width="56%">
 
