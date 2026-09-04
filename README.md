@@ -14,9 +14,9 @@
 <tr>
 <td width="44%" align="center">
 
-<img src="./assets/gifitadori.gif" width="390" alt="grnex profile animation"/>
+<img src="./assets/ita.gif" width="390" alt="grnex profile animation"/>
 
-</td>
+</td>s
 
 <td width="56%">
 
